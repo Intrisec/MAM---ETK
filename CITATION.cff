@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use MAM-ETK in research or published work, please cite it as below."
+type: software
+title: "MAM-ETK v3.1 (Maternal Attunement Monitor): Behavioral Temporal Anomaly Detection Engine"
+abstract: >
+  MAM-ETK is a per-process behavioral anomaly detector for endpoint security,
+  derived from the ETK (Ecosistemul Teoretic Katharós) theoretical neuroscience framework.
+  It monitors processes as temporal state machines, accumulating threat signals through
+  variables homologous to biological neuroception (Q, I_p, N_cross, A_Q, F_abandon),
+  and detects ransomware, APT low-and-slow, kernel spoofing, and orphan-spawn clinging
+  patterns that snapshot-based classifiers miss by design.
+authors:
+  - family-names: "Cătălin"
+    given-names: "Alexandru Ciprian"
+    orcid: "https://orcid.org/0009-0000-6779-750X"
+    affiliation: "Katharós Research"
+    email: "intrisecu@gmail.com"
+version: "3.1"
+date-released: 2026-04-30
+license: MIT
+repository-code: "https://github.com/katharos-research/mam-etk"
+keywords:
+  - anomaly detection
+  - endpoint security
+  - behavioral analysis
+  - temporal state machine
+  - intrusion detection
+  - ETK
+  - neuroscience-derived
+  - process monitoring
+references:
+  - type: article
+    title: "Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization"
+    authors:
+      - family-names: Sharafaldin
+        given-names: Iman
+      - family-names: Lashkari
+        given-names: "Arash Habibi"
+      - family-names: Ghorbani
+        given-names: "Ali A."
+    year: 2018
+    conference:
+      name: "ICISSP 2018"
+    notes: "CICIDS2017 dataset, University of New Brunswick"
+  - type: article
+    title: "A Detailed Analysis of the KDD CUP 99 Dataset"
+    authors:
+      - family-names: Tavallaee
+        given-names: Mahbod
+      - family-names: Bagheri
+        given-names: Ebrahim
+      - family-names: Lu
+        given-names: Wei
+      - family-names: Ghorbani
+        given-names: "Ali A."
+    year: 2009
+    conference:
+      name: "IEEE CISDA 2009"
+    notes: "NSL-KDD benchmark dataset"

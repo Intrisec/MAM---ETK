@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Alexandru Ciprian Cătălin
+Copyright (c) 2026 Alexandru Ciprian Cătălin — Katharós Research
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+NOTE ON INTELLECTUAL PROPERTY:
+
+The MIT License above applies to the software code in this repository.
+
+The ETK (Ecosistemul Teoretic Katharós) theoretical framework, clinical
+methodology, mathematical formalisms, and associated theoretical documents
+(ACPS, TVKNM, Qualia Q, NP_Depresia, TheUpstreamMechanism, RASP Protocol,
+and related works) remain the exclusive intellectual property of Alexandru
+Ciprian Cătălin / Katharós Research and are NOT covered by this license.
+
+For licensing of ETK theoretical materials, clinical applications, or
+collaboration inquiries: intrisecu@gmail.com

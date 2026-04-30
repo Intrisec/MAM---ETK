@@ -1,0 +1,6 @@
+# MAM-ETK v3.1 (Maternal Attunement Monitor) — dependencies
+# Python >= 3.10 required
+numpy>=1.24
+scipy>=1.7
+# Standard library only for core engine (mam.py):
+# sqlite3, hmac, json, csv, math, collections, hashlib, dataclasses
